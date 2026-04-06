@@ -1,9 +1,9 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 
-contract NitishToken {
+contract BToken {
 
-    string public name = "Nitish Coin";
+    string public name = "BCoin";
     string public symbol = "NTC";
     uint8 public decimals = 18;
     uint public totalSupply;
